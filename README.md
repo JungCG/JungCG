@@ -1,4 +1,4 @@
-[![JungCG's github stats](https://github-readme-stats.vercel.app/api?username=JungCG&show_icons=true&hide=contribs&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungCG)](https://github.com/anuraghazra/github-readme-stats)
+[![JungCG's github stats](https://github-readme-stats.vercel.app/api?username=JungCG&show_icons=true&hide=contribs&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2014.3 ~ 2020.8 | Computer Engineering| **Sejong University** |
@@ -6,6 +6,8 @@
 
 <!--
 ### Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungCG)](https://github.com/anuraghazra/github-readme-stats)
 
 **JungCG/JungCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
