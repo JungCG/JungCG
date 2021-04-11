@@ -2,10 +2,13 @@
 
 [![JungCG's github stats](https://github-readme-stats.vercel.app/api?username=JungCG&show_icons=true&hide=contribs&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-| **Type** | **Date** | **Contents** | **Organization** |
+| **Type** | **Date (achieved)** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2014.3 ~ 2020.8 | Computer Engineering| **Sejong University** |
-| **External activities** | 2020.8 ~ 2021.1 | Digital Convergence Application SW Developer Training Course | **KH Information Education Institute** |
+| **Certificate** | 2021.04 | **리눅스마스터 2급** | **한국정보통신진흥협회** |
+| **External activities** | 2020.08 ~ 2021.01 | **Digital Convergence Application SW Developer Training Course** | **KH Information Education Institute** |
+| **Certificate** | 2020.08 | **정보처리기사** | **한국산업인력공단** |
+| **Certificate** | 2019.09 | **SQL-Developer** | **한국데이터산업진흥원** |
+| **Education** | 2014.03 ~ 2021.08 | **Computer Engineering (정보통신공학과)** | **Sejong University** |
 
 <!--
 ### Hi there 👋
